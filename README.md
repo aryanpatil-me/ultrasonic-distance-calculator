@@ -27,6 +27,7 @@ This project uses an **ultrasonic sensorHC-SR04)** and a **16x2 LCD display** to
   ---
 
   ## Arduino Code
+  [See 'ultrasonic_distance_calculator.ion' in this repo.](https://github.com/aryanpatil-me/ultrasonic-distance-calculator/blob/main/ultrasonic_distance_calculator.ino)
 
   ---
 
