@@ -8,7 +8,7 @@ This project uses an **ultrasonic sensorHC-SR04)** and a **16x2 LCD display** to
 - HC-SR04 Ultrasonic Sensor
 - 16x2 LCD
 - Push Button
-- 10k&Omega Resistor
+- 10k&Omega; Resistor
 - Breadboard & Jumper Wires
 
 ---
@@ -38,4 +38,5 @@ This project uses an **ultrasonic sensorHC-SR04)** and a **16x2 LCD display** to
   - Code structure and documentation
 
   ---
-  
+  Created by **Aryan Patil**
+
